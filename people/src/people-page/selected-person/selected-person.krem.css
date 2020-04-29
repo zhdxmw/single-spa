@@ -1,0 +1,21 @@
+.personAttribute {
+  display: flex;
+}
+
+.attributeTitle {
+  font-weight: bold;
+  padding-right: 16px;
+  width: 150px;
+}
+
+.peoplePage {
+  height: 1000px;
+  width: 800px;
+  background: url(../../img/release.png);
+}
+
+.brand-button {
+  height: 1000px;
+  width: 800px;
+  background: url(../../img/release.png);
+}
